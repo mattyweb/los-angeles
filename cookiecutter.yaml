@@ -1,0 +1,6 @@
+default_context:
+    municipality: "Los Angeles"
+    municipality_slug: "los-angeles"
+    python_municipality_slug: "los_angeles"
+    maintainer_full_name: "Matt Webster"
+    hosting_github_username_or_org: "mattyweb"
